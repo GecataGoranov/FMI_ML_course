@@ -1,0 +1,20 @@
+1.  The machine learning began to solve real problems around 2005.
+2.  The lecturer talked about facial recognition as a classic examlpe of AI.
+3.  The simplest way to make a machine solve a task is with supervised learning.
+4.  Supervised learning is when we show the computer our desired output, given a certain input.
+5.  In order to work at all, AI requires data and computational power.
+6.  Facial recognition belongs to the classification class of problems.
+7.  Each neuron in the brain solves a very simple pattern recognition task.
+8.  When the neuron recognizes a pattern it sends a signal to the other neurons.
+9.  A digital picutre is made up of pixels, so it's basically a matrix (or a tensor).
+10. The three reasons are: scientific advancement, the availability of big data, computing power becoming cheaper.
+11. The GPU is really well-suited for the maths, needed for deep learning.
+12. Yes, the neural network capabilities scale very well with more data and computing power.
+13. The investments from the Silicon Valley allowed for the biggest and fastest advancements.
+14. The most important paper is called "Attention is all you need".
+15. The transformer architecture is designed for LLMs (Large Language Models).
+16. The innovation of the transformer architecture is called the "attention mechanism".
+17. GPT-3 was a step-up in capability for the LLMs.
+18. No, because humans don't have to read 500 billion words in order to learn something.
+19. The "bitter truth" is that most of the progress with AI is done with just more data and computational power.
+20. ChatGPT doesn't experience anything. It's just a computer program, waiting for you to type your next prompt.
